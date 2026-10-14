@@ -1,0 +1,9 @@
+# Git ignore for AMESITE Studio
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env*
+!.env.example
+.vercel
+.netlify
