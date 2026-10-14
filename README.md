@@ -1,32 +1,46 @@
-# 🚀 AMESITE - KIT COMPLET D'AGENCE NUMÉRIQUE SUR-MESURE
+# 🚀 AMESITE — Studio Digital & Applications Web Sur-Mesure
 
-Bienvenue dans le dossier opérationnel de votre agence numérique **AMESITE**, spécialisée dans la conception de sites internet et d'applications web sur-mesure.
+<div align="center">
 
-Tout est prêt et structuré pour démarrer immédiatement vos prospections et vos premiers contrats.
+[![Site Live](https://img.shields.io/badge/🌐_Site_En_Ligne-Accéder_au_Site-4f46e5?style=for-the-badge)](https://ame729.github.io/amesite/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AME729%2Famesite-06b6d4?style=for-the-badge&logo=github)](https://github.com/AME729/amesite)
+[![Status](https://img.shields.io/badge/Statut-En_Production-emerald?style=for-the-badge)](#)
+
+### 👉 **[Cliquez ici pour tester le site en direct](https://ame729.github.io/amesite/)** 👈
+
+</div>
 
 ---
 
-## 📂 Contenu du Dossier
+## 📌 Présentation
 
-| Fichier | Description |
+**AMESITE** est une agence numérique spécialisée dans la conception de **sites web haute performance**, d'**outils métiers sur-mesure** et d'applications web modernes pour PME, startups et indépendants.
+
+### ✨ Fonctionnalités Clés du Site Web :
+* 🌌 **Toile interactive de Particules Neurales (Canvas 60 FPS)** qui réagit magnétiquement à la souris.
+* ⚡ **Live App Studio Sandbox** : un véritable banc d'essai interactif sur la page d'accueil (simulation de paiements Stripe, KPIs animés, feed en direct, gestion d'équipe et logs d'API).
+* 🧮 **Simulateur de Devis en Temps Réel** : calcule instantanément le budget et le délai estimé selon les options choisies par le client.
+* 📄 **Générateur de Devis Pro (PDF)** : génère un devis formel avec référence unique (#AME-2026-XXXX) prêt à être imprimé ou téléchargé.
+* 🔊 **Moteur Sonore Tactile (Web Audio API)** : micro-sons de clics d'interface avec bouton mute dans la barre de navigation.
+* 📊 **Agency Hub** : espace administrateur interne pour centraliser les demandes de devis et leads reçus.
+
+---
+
+## 📂 Contenu du Répertoire
+
+| Fichier | Rôle & Description |
 | :--- | :--- |
-| **`index.html`** | **Le site vitrine officiel de l'agence**. Design moderne (Tailwind CSS, Lucide icons, responsive, dark cyber-minimalist). Intègre un **estimateur de devis interactif** en temps réel et un **Agency Hub** pour gérer vos leads ! |
-| **`01_CONTRAT_ET_DEVIS_TYPE.md`** | Le contrat de prestation juridique complet avec clauses d'acompte (40/30/30), limitation de périmètre (*scope creep*), et clause de réserve de propriété intellectuelle. |
-| **`02_CAHIER_DES_CHARGES_TEMPLATE.md`** | Le document de cadrage technique et fonctionnel à faire remplir ou à valider avec votre client avant tout devis. |
-| **`03_SCRIPTS_PROSPECTION_ET_VENTE.md`** | Scripts de prospection LinkedIn, cold email pour dirigeants de PME, structure de l'appel de découverte en 20 min et réponses aux objections. |
-| **`04_ROADMAP_LANCEMENT_AGENCE.md`** | Guide pratique : formalités de micro-entreprise (statut, APE 62.01Z), banque pro, encaissement Stripe, et stratégie des 3 premiers clients. |
+| **[`index.html`](index.html)** | **Application web complète et site officiel de l'agence**. |
+| **[`01_CONTRAT_ET_DEVIS_TYPE.md`](01_CONTRAT_ET_DEVIS_TYPE.md)** | Contrat juridique anti-litige (acompte 40%, limitation de périmètre, cession de droits). |
+| **[`02_CAHIER_DES_CHARGES_TEMPLATE.md`](02_CAHIER_DES_CHARGES_TEMPLATE.md)** | Document de cadrage technique et fonctionnel avant devis. |
+| **[`03_SCRIPTS_PROSPECTION_ET_VENTE.md`](03_SCRIPTS_PROSPECTION_ET_VENTE.md)** | Scripts de prospection LinkedIn, cold emails et trame d'appel de découverte en 20 min. |
+| **[`04_ROADMAP_LANCEMENT_AGENCE.md`](04_ROADMAP_LANCEMENT_AGENCE.md)** | Guide administratif (micro-entreprise, code APE 62.01Z, banque pro, Stripe). |
+| **[`05_GUIDE_DEPLOIEMENT_EN_LIGNE.md`](05_GUIDE_DEPLOIEMENT_EN_LIGNE.md)** | Guide de déploiement multi-plateformes (GitHub Pages, Vercel, Netlify). |
 
 ---
 
-## 🖥️ Comment ouvrir et tester le site de l'agence ?
+## 🚀 Liens Rapides
 
-Double-cliquez simplement sur le fichier **`index.html`** dans votre explorateur de fichiers Windows, ou ouvrez-le avec Chrome / Edge :
-
-```powershell
-Start-Process "C:\Users\elhos\.gemini\antigravity\scratch\agence-numerique\index.html"
-```
-
-### Fonctionnalités interactives du site :
-1. **Estimateur de budget en direct** : Les visiteurs sélectionnent leur type de projet (Vitrine, Web App, SaaS) et leurs options pour calculer le prix et les délais.
-2. **Générateur de leads** : Les soumissions de formulaires sont automatiquement enregistrées.
-3. **Agency Hub (Espace Administrateur)** : Cliquez sur l'icône de tableau de bord en haut à droite pour consulter la liste des demandes de projets et vos métriques !
+* 🌐 **Site officiel en ligne :** [https://ame729.github.io/amesite/](https://ame729.github.io/amesite/)
+* 📦 **Dépôt GitHub :** [https://github.com/AME729/amesite](https://github.com/AME729/amesite)
+* 💼 **Contact :** `contact@amesite.fr`
